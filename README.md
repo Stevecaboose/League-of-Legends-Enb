@@ -1,5 +1,6 @@
 League of Legends ENB made by Stevecaboose AKA Stevecabbage
-Includes ReShade 0.19.2 Public Beta with SweetFX 2.0 Beta 8
+
+Includes ReShade 0.19.2 Public Beta with SweetFX 2.0 Beta 8 (Might currently not work on Windows 10)
 
 Installation---
 

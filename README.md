@@ -20,6 +20,10 @@ is running in borderless mode.
 
 It is recommended to turn off any anti-aliasing via the in game settings menu.
 
+Although this is just a graphical modification PLEASE USE AT YOUR OWN RISK. I WILL NOT BE RESPONSIBLE FOR ANYTHING THAT HAPPENS TO YOUR ACCOUNT.
+
+I have been using this for a while with no bans or warnings. There are very old post of other people who made enbs for league saying that using an enb with league is safe to use.
+
 LICENSE AGREEMENT AND DISTRIBUTION RULES:
 1 Copyrights of the ENBSeries (the SOFTWARE) exclusively belongs to AUTHOR - Vorontsov Boris (ENB developer). 
 

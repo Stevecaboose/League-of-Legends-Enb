@@ -9,6 +9,10 @@ Installation---
 -Copy contents of League of Legends ENB to the following directory:
   C:\Riot Games\League of Legends\RADS\solutions\lol_game_client_sln\releases\0.0.1.XX\deploy
   
+How to uninstall:
+
+To uninstall either remove all the files that you originally placed from the zip folder. The other way to uninstall is either rename or remove the d3d9.dll file from your league directory. 
+  
 -Note: 
 
 When testing, running in fullscreen almost always resulted in bugsplat errors. No bugsplat errors occurred when the game
